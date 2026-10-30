@@ -1,0 +1,9 @@
+{
+  "name": "scss-satya",
+  "private": true,
+  "scripts": {
+    "dev": "run.bat",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  }
+}

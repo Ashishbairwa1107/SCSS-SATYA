@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  satya:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: scss-satya
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./storage:/app/storage
+    environment:
+      - ENVIRONMENT=production
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
