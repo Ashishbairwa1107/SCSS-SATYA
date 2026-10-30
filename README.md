@@ -9,7 +9,7 @@
 
 **Full Title:** SCSS SATYA — Forensic Image Authenticity Screening Platform  
 **Developed for:** Sure Clue Scientific Solutions (SCSS)  
-**Challenge:** SEVA FIRST Innovation Challenge 2026  
+  
 **Sector:** Sector 9 — Emerging Technologies (AI, Blockchain and Others)  
 **Sub-theme:** Sub-theme 4 — Responsible AI, Deepfake Detection, Cyber Resilience and Digital Trust  
 
